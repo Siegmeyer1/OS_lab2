@@ -1,0 +1,3 @@
+/home/anri/Documents/Github_repositories/OS_lab2/build/CMakeFiles/rebuild_cache.dir
+/home/anri/Documents/Github_repositories/OS_lab2/build/CMakeFiles/OS_lab2.dir
+/home/anri/Documents/Github_repositories/OS_lab2/build/CMakeFiles/edit_cache.dir
